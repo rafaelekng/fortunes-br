@@ -1,0 +1,12 @@
+--------------------
+FORTUNES-BR
+--------------------
+
+Você pode obter a última versão desse fortunes do endereço:
+
+https://github.com/rafaelekng/fortunes-br
+
+para instala-lo execute o seguinte comando, como root:
+
+	#make install
+	
